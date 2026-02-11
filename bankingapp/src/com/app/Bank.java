@@ -17,5 +17,11 @@ public class Bank {
 
 		
 	}
+	
+	public void addmoney()
+	{
+		
+		
+	}
 
 }
